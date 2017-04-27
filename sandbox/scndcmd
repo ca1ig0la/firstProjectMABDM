@@ -1,0 +1,17 @@
+#!/bin/bash
+#cp $1 $2
+#head $2 | nl > $3
+#echo "head $2 | nl > $3"
+#echo "4 variable content is:$4"
+#variable=something2
+#echo $variable
+var=$1
+var2=$2
+
+if [ "$var" -eq "$var" && "$var2" -eq "$var2" ] 2>/dev/null; then
+  varnum=$(($1+$2))
+  echo $varnum
+else
+  echo not a number
+fi
+

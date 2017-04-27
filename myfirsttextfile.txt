@@ -1,0 +1,3 @@
+type anything
+even new lines
+how cool is that?!

@@ -1,0 +1,10 @@
+     1	{"numeroTreno":"12","codLocOrig":"S01700","descLocOrig":"MILANO CENTRALE","dataPartenza":1463263200000,"corsa":"00012A"}
+     2	{"numeroTreno":"12","codLocOrig":"S01700","descLocOrig":"MILANO CENTRALE","dataPartenza":1463263200000,"corsa":"00012A"}
+     3	{"numeroTreno":"12","codLocOrig":"S01700","descLocOrig":"MILANO CENTRALE","dataPartenza":1463263200000,"corsa":"00012A"}
+     4	{"numeroTreno":"12","codLocOrig":"S01700","descLocOrig":"MILANO CENTRALE","dataPartenza":1463263200000,"corsa":"00012A"}
+     5	{"numeroTreno":"12","codLocOrig":"S01700","descLocOrig":"MILANO CENTRALE","dataPartenza":1463263200000,"corsa":"00012A"}
+     6	{"numeroTreno":"13","codLocOrig":"S01301","descLocOrig":"CHIASSO","dataPartenza":1463263200000,"corsa":"00013A"}
+     7	{"numeroTreno":"14","codLocOrig":"S01700","descLocOrig":"MILANO CENTRALE","dataPartenza":1463263200000,"corsa":"00014A"}
+     8	{"numeroTreno":"15","codLocOrig":"S01301","descLocOrig":"CHIASSO","dataPartenza":1463263200000,"corsa":"00015A"}
+     9	{"numeroTreno":"16","codLocOrig":"S01700","descLocOrig":"MILANO CENTRALE","dataPartenza":1463263200000,"corsa":"00016A"}
+    10	{"numeroTreno":"17","codLocOrig":"S01301","descLocOrig":"CHIASSO","dataPartenza":1463263200000,"corsa":"00017A"}
